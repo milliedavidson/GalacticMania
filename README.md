@@ -2,7 +2,7 @@
 
 Catch the bat hide-and-seek game (made with Scratch). My first programming project.
 
-Play it online [here](https://scratch.mit.edu/projects/708497878/)
+Play it online [here](https://scratch.mit.edu/projects/708497878/).
 
 Have fun! 👻
 
